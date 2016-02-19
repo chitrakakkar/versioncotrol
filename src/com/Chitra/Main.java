@@ -8,8 +8,10 @@ public class Main
         System.out.println("Dinosaur programming");
         Dainasour t_rex = new Dainasour();
         Dainasour velo = new Dainasour();
+        Dainasour ck = new Dainasour();
 
         t_rex.roar();
         velo.roar();
+        ck.roar();
     }
 }
