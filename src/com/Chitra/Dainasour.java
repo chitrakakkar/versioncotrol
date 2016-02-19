@@ -7,6 +7,7 @@ public class Dainasour
 {
     public void roar()
     {
-        System.out.println("Hello");
+        System.out.println("Hello again");
+        System.out.println("");
     }
 }

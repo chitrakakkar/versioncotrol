@@ -5,7 +5,8 @@ public class Main
 
     public static void main(String[] args)
     {
-	 Dainasour t_rex = new Dainasour();
+        System.out.println("Dinosaur programming");
+        Dainasour t_rex = new Dainasour();
         Dainasour velo = new Dainasour();
 
         t_rex.roar();
