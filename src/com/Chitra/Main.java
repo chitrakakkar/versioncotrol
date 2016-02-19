@@ -13,6 +13,6 @@ public class Main
         t_rex.roar();
         velo.roar();
         ck.roar();
-        System.out.println("The version control");
+        System.out.println("The v control");
     }
 }
